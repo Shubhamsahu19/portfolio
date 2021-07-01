@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+body{
+    margin: 0px;
+   
+}
+header{
+    background-color: rgb(167, 106, 49);
+    margin-top: 0;
+}
+.top-container{
+    background-color: bisque;
+    text-align: center;
+    
+    
+}
+.mid-container{
+    background-color: cornsilk;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.bottom-container{
+    background-color: rgb(250, 243, 234);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+}
+input{
+    background-color: rgb(137, 137, 250);
+    padding: 10px;
+}
+p{
+    margin: 0;
+    padding: 10px;
+    display: inline;
+}
+h3{
+    margin: 0;
+    padding: 10px;
+    font-family: 'Yellowtail', cursive;
+}
+h1{
+    font-size: 70px;
+    line-height: 2;
+    font-family: 'Yellowtail', cursive;
+
+}
+h2{
+    font-size: 40px;
+    font-family: 'Yellowtail', cursive;
+    margin: 0px;
+}
+h3{
+    font-size: 30px;
+}
+.boy{
+    height: 300px;
+    width: 250px;
+    padding: 10px;
+}
+.cloud1{
+    position: absolute;
+    top: 200px;
+    right: 150px;
+}
+.cloud2{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+}
+.mountain{
+    
+}
+.para{
+    font-size: 24px;
+    display: block;
+}
+.name{
+    color: #66bfbf;
+}
+.pro{
+    color:#66bfbf ;
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+hr{
+    border-top: 5px dashed black;
+    margin: 0px;
+}
